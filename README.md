@@ -15,6 +15,8 @@ The final product should be a working web-app with a login system and hosted on 
 4.Host your web-app on any free hosting platforms like AWS, Heroku, Github, Firebase etc.
 
 
-Task solution -
-For Frontend - HTML,CSS, Bootstrap
+##**Task solution -**
+
+For Frontend part - HTML,CSS, Bootstrap
+
 For login System - PHP and SQL are used
